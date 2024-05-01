@@ -22,5 +22,5 @@ Once you have Node.js installed, follow these steps to run the JavaScript script
 4. Execute the command `node filename.js`, replacing `filename.js` with the name of the JavaScript file you want to execute.
 
 For example:
-
+```bash
 node ./example.js
